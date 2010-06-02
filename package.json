@@ -1,0 +1,14 @@
+{
+  "name": "restler",
+  "version": "0.0.1",
+  "description": "REST client library for node.js",
+  "engine": [
+    "node >=0.1.93"
+  ],
+  "author": "Dan Webb <dan@danwebb.net>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/danwrong/restler.git"
+  },
+  "main": "lib/restler"
+}
